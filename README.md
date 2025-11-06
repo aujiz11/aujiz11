@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aujiz11&theme=vue-dark&border_radius=6" height="150" alt="streak graph"  />
+   <img src="https://streak-stats.demolab.com?user=aujiz11&theme=vue-dark&border_radius=6" alt="GitHub Streak" /></a>
 </div>
 
 ###
